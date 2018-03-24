@@ -1,0 +1,6 @@
+{
+  "manifest_version": 2,
+  "name": "robotx_remote_viewer_plugin",
+  "description": "robotx remote monitor plugin",
+  "version": "1.0"
+}
